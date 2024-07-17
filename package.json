@@ -1,6 +1,6 @@
 {
-  "name": "zet-js",
-  "version": "0.0.2",
+  "name": "zet.js",
+  "version": "0.0.1",
   "description": "zet.js is a flexible and easy full-stack JavaScript framework that simplifies web development with seamless frontend and backend integration, and more.",
   "homepage": "https://github.com/Gazi2050/zet.js",
   "repository": "https://github.com/Gazi2050/zet.js",
@@ -8,7 +8,10 @@
   "scripts": {
     "build": "webpack"
   },
-  "keywords": [],
+  "keywords": [
+    "javaScript",
+    "framework"
+  ],
   "author": "gazi2050",
   "license": "MIT",
   "dependencies": {
