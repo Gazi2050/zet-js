@@ -1,6 +1,11 @@
 # zet.js
 zet.js is a flexible and easy full-stack JavaScript framework that simplifies web development with seamless frontend and backend integration, and more.
 
+### Create zet.js project
+```
+npx create-zet-app@latest <project-name>
+```
+
 ## Contribution
 We welcome contributions from the community to help improve zet.js. Whether you want to report a bug, request a feature, or submit a pull request, your input is highly valued.
 
