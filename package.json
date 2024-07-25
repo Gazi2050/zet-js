@@ -1,7 +1,7 @@
 {
   "name": "zet.js",
   "version": "0.0.2",
-  "description": "zet.js is a flexible and easy full-stack JavaScript framework that simplifies web development with seamless frontend and backend integration, and more.",
+  "description": "A minimalistic JavaScript framework with React",
   "homepage": "https://github.com/Gazi2050/zet.js",
   "repository": "https://github.com/Gazi2050/zet.js",
   "main": "index.js",
