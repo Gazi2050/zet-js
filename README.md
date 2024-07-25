@@ -1,5 +1,5 @@
 # zet.js
-zet.js is a flexible and easy-to-use JavaScript framework that simplifies web development.
+zet.js is a flexible and easy-to-use JavaScript framework with React that makes web development straightforward and efficient.
 
 ### Create zet.js project
 ```
